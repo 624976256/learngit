@@ -1,5 +1,5 @@
 git is a distributed version control system.
-gei is free software.
+gei is free software distributed under the GPL.
 
 
 
